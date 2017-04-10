@@ -6,17 +6,10 @@ DESCRIPTION OF USE:
 1. Add styles from style.css and code from config.js to you page.
 2. Yo ucan see example of use in index.html with 2 exaple images - ba1.png and ba2.png
 3. To use slider just maintainn html structure and put it into you wrapper element - it will fit it's size.
-  <div class="kz-slider">
-        <div class="slide slide-left">
-          <img src="ba2.png"/>
-        </div>
-        <div class="slide slide-right">
-          <img src="ba1.png"/>
-        </div>
-        <div class="kz-separator" data-width="15"></div>
-  </div>
 4. Parameters:
   Data-width is to specify separator width in pixels:
   <div class="kz-separator" data-width="15"></div>
 5. Enjoy! :)   
+
+
   
